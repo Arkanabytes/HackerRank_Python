@@ -17,7 +17,6 @@ else:
     elif(n>=20): 
         print("Not Weird")
 
-
 Task
 Given an integer, , perform the following conditional actions:
 
