@@ -43,8 +43,7 @@ Weird
 Explanation 0
 
 
- is odd and odd numbers are weird, so print Weird.
-
+is odd and odd numbers are weird, so print Weird.
 Sample Input 1
 
 24
