@@ -49,6 +49,4 @@ Sample Output 1
 
 Not Weird
 Explanation 1
-
-
  and  is even, so it is not weird.
