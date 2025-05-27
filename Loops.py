@@ -24,7 +24,6 @@ Output Format
 Print  lines, one corresponding to each .
 
 Sample Input 0
-
 5
 Sample Output 0
 
