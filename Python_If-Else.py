@@ -32,7 +32,6 @@ Output Format
 Print Weird if the number is weird. Otherwise, print Not Weird.
 
 Sample Input 0
-
 3
 Sample Output 0
 
