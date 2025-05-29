@@ -26,7 +26,6 @@ If  is even and greater than , print Not Weird
 Input Format
 
 A single line containing a positive integer, .
-
 Constraints
 
 Output Format
