@@ -29,7 +29,6 @@ A single line containing a positive integer, .
 Constraints
 
 Output Format
-
 Print Weird if the number is weird. Otherwise, print Not Weird.
 
 Sample Input 0
